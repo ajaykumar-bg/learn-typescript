@@ -1,6 +1,6 @@
 <h1 align="center">
 <img width="40" valign="bottom" src="https://ultimateangular.com/assets/img/categories/typescript.svg">
-TypeScript: Basics Course Seed
+Learning TypeScript: Basics Course Seed
 </h1>
 <h4 align="center">Project seed for our comprehensive introduction to TypeScript course.</h4>
 
@@ -10,7 +10,7 @@ TypeScript: Basics Course Seed
 
 ---
 
-> This repo serves as the seed project for Ultimate Angular's TypeScript Basics course as well as the final solution in stepped branches, come and [learn TypeScript](https://ultimateangular.com/courses/) with us!
+> This repo serves as the laerning steps for Ultimate Angular's TypeScript Basics course (https://ultimateangular.com/courses/) with us!
 
 [Setup and install](#setup-and-install) | [Tasks](#tasks) |
 [Resources](#resources)
@@ -34,42 +34,18 @@ have some of these already, skip to the next step where appropriate):
 That's about it for tooling you'll need to run the project, let's move onto the
 project install.
 
-#### Project installation and server
+#### Project installation and running the code
 
-Now you've pulled down the repo and have everything setup, using the terminal
-you'll need to `cd` into the directory that you cloned the repo into and run
-some quick tasks:
+From lesson-03 onwards to run the code, follow the instructions below
+From terminal, got to each folder
+Complile and run the code.
 
-```
-cd <typescript-basics-seed>
-yarn install
-# OR
-npm install
-```
+1. Compile the tsc file
+`tsc <file_name.ts>`
+2. Run the compiled js file to find output in the terminal
+`node <file_name.js>`
 
-This will then setup all the development and production dependencies we need.
 
-Now simply run this to boot up the server:
-
-```
-yarn start
-# OR
-npm start
-```
-
-Visit `localhost:3000` to start building.
-
-## Tasks
-
-A quick reminder of all tasks available:
-
-#### Development server
-
-```
-yarn start
-# OR
-npm start
-```
 
 ## Resources
 
