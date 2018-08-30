@@ -1,19 +1,10 @@
 <h1 align="center">
-<img width="40" valign="bottom" src="https://ultimateangular.com/assets/img/categories/typescript.svg">
-Learning TypeScript: Basics Course Seed
+Learning TypeScript
 </h1>
-<h4 align="center">Project seed for our comprehensive introduction to TypeScript course.</h4>
+
+<h4 align="center"> Ultimate Angular's - TypeScript Basics course.</h4>
 
 ---
-
-<a href="https://ultimateangular.com" target="_blank"><img src="https://ultimateangular.com/assets/img/banners/ua-github.svg"></a>
-
----
-
-> This repo serves as the laerning steps for Ultimate Angular's TypeScript Basics course (https://ultimateangular.com/courses/) with us!
-
-[Setup and install](#setup-and-install) | [Tasks](#tasks) |
-[Resources](#resources)
 
 ## Setup and install
 
@@ -49,9 +40,4 @@ Complile and run the code.
 
 ## Resources
 
-There are several resources used inside this course, of which you can read
-further about to dive deeper or understand in more detail what they are:
-
-* [TypeScript Docs](https://www.typescriptlang.org)
-* [TypeScript Playground](https://www.typescriptlang.org/play)
-* [AST Explorer](https://astexplorer.net)
+* [Ultimate Angular's - TypeScript Basics course](https://ultimateangular.com/courses/)
